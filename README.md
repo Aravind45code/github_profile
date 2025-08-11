@@ -8,7 +8,7 @@
 <!-- Frontend Frameworks --> <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a> <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
 </div>
 
-🤖 Machine Learning & Deep Learning
+🤖 **Machine Learning & Deep Learning**
 
 I'm fascinated by the potential of machine learning and deep learning to solve real‑world problems. I have worked on projects involving
 Natural language processing
