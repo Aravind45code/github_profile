@@ -16,11 +16,11 @@ Neural networks and computer vision
 Data analytics and predictive modelling
 I enjoy building models and deploying them into scalable systems using the tools in my tech stack.
 
-💻 Software Development
+💻 **Software Development**
 
 I enjoy crafting scalable APIs and microservices using Java, Spring Boot, and other frameworks. I've built applications that integrate seamlessly with front‑end technologies like React, Angular, and Next.js, while also ensuring performance and robustness through efficient database design, caching strategies, and asynchronous programming.
 
-🔭 What I'm Looking For
+🔭 **What I'm Looking For**
 
 I'm actively looking for Software Developer and AI/ML roles where I can combine my backend expertise with my passion for machine learning and deep learning.
 If you're interested in collaborating or have opportunities that match my skills, feel free to reach out!
