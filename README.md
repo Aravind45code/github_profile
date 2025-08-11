@@ -8,7 +8,7 @@
 <!-- Frontend Frameworks --> <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a> <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
 </div>
 
-🤖 Machine Learning & Deep Learning //
+🤖 Machine Learning & Deep Learning
 I'm fascinated by the potential of machine learning and deep learning to solve real‑world problems. I have worked on projects involving
 Natural language processing
 Neural networks and computer vision
@@ -19,7 +19,8 @@ I enjoy building models and deploying them into scalable systems using the tools
 I enjoy crafting scalable APIs and microservices using Java, Spring Boot, and other frameworks. I've built applications that integrate seamlessly with front‑end technologies like React, Angular, and Next.js, while also ensuring performance and robustness through efficient database design, caching strategies, and asynchronous programming.
 
 🔭 What I'm Looking For
-I'm actively looking for Software Developer and AI/ML roles where I can combine my backend expertise with my passion for machine learning and deep learning.<br/> If you're interested in collaborating or have opportunities that match my skills, feel free to reach out!
+I'm actively looking for Software Developer and AI/ML roles where I can combine my backend expertise with my passion for machine learning and deep learning.
+If you're interested in collaborating or have opportunities that match my skills, feel free to reach out!
 
 📫 Connect with Me
 <p align="center"> <a href="mailto:aravindaimlg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/aravind45" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://leetcode.com/aravind45" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> <a href="https://instagram.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> </p>
