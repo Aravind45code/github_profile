@@ -5,7 +5,7 @@
 </p>
 
 Graduated from Texas Tech University with a Master’s in Computer Science (May 2025), blending strong academic foundations with hands-on industry experience to deliver high-quality software and AI/ML solutions.. </p>
-## 🤖 Machine Learning & Deep Learning  
+## 🤖 Applied AI: From ML to LLMs and Agents  
 
 From implementing basic **machine learning algorithms** like Linear Regression, Logistic Regression, and Decision Trees to building **deep learning architectures** such as CNNs for image recognition and RNN/LSTMs for sequence modeling, the focus has always been on solving real-world problems through data-driven systems.  
 
