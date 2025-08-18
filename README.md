@@ -10,16 +10,63 @@ Graduated from Texas Tech University with a Master’s in Computer Science (May 
 <!-- Frontend Frameworks --> <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a> <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
 </div>
 
-🤖 **Machine Learning & Deep Learning**
+## 🤖 Machine Learning & Deep Learning  
 
-I'm fascinated by the potential of machine learning and deep learning to solve real‑world problems. I have worked on projects involving
-Natural language processing,
-Neural networks and computer vision.
-I enjoy building models and deploying them into scalable systems using the tools in my tech stack.
+From implementing basic **machine learning algorithms** like Linear Regression, Logistic Regression, and Decision Trees to building **deep learning architectures** such as CNNs for image recognition and RNN/LSTMs for sequence modeling, the focus has always been on solving real-world problems through data-driven systems.  
 
-💻 **Software Development**
+Moving forward, this extended into **natural language processing (NLP)**, building sentiment analyzers, text classifiers, and vector search pipelines. With **transformers and large language models (LLMs)**, the scope expanded to generative tasks like text generation, summarization, and semantic search.  
 
-I enjoy crafting scalable APIs and microservices using Java, Spring Boot, and other frameworks. I've built applications that integrate seamlessly with front‑end technologies like React, Angular, and Next.js, while also ensuring performance and robustness through efficient database design, caching strategies, and asynchronous programming.
+Currently, the exploration is centered on **agentic AI systems** — where models not only generate but also reason, plan, and autonomously interact with tools and APIs to complete complex tasks.  
+
+<div align="center">
+
+<!-- Languages & ML Tools -->  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" /></a>  
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>  
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>  
+<a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>  
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>  
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>  
+
+</div>
+
+---
+
+## 💻 Software Development  
+
+From the foundation of **object-oriented programming (OOPs)** principles to developing **RESTful APIs** and **modular monolith applications**, the focus has been on crafting clean, maintainable systems.  
+
+This evolved into designing **scalable microservices** with Spring Boot, implementing **asynchronous processing** (WebFlux, CompletableFutures), **caching strategies** (Redis, Hibernate 2nd-level cache), and **real-time communication** (WebSockets).  
+
+On the frontend, development has spanned **React, Angular, and Next.js**, building role-based dashboards and interactive systems integrated with secure backend APIs. With **CI/CD pipelines, Docker, Kubernetes, and cloud deployments (AWS, Azure)**, applications are now production-ready, optimized for scalability, fault tolerance, and performance.  
+
+<div align="center">
+
+<!-- Programming Languages -->  
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>  
+
+<!-- Backend Frameworks -->  
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>  
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>  
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>  
+
+<!-- Frontend Frameworks -->  
+<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>  
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>  
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>  
+
+<!-- Cloud & DevOps -->  
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>  
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>  
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>  
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>  
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>  
+
+</div>
 
 🔭 **What I'm Looking For**
 
