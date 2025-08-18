@@ -5,7 +5,6 @@ Graduated from Texas Tech University with a Master’s in Computer Science (May 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AravindReddy45/AravindReddy45/main/assets/coding-banner.gif" alt="Coding Banner" width="600"/>
 </p>
-
 ## 🤖 Machine Learning & Deep Learning  
 
 From implementing basic **machine learning algorithms** like Linear Regression, Logistic Regression, and Decision Trees to building **deep learning architectures** such as CNNs for image recognition and RNN/LSTMs for sequence modeling, the focus has always been on solving real-world problems through data-driven systems.  
