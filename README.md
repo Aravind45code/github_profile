@@ -3,7 +3,7 @@
 
 Graduated from Texas Tech University with a Master’s in Computer Science (May 2025), blending strong academic foundations with hands-on industry experience to deliver high-quality software and AI/ML solutions.. </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cloud+%7C+DevOps+%7C+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/AravindReddy45/AravindReddy45/main/assets/coding-banner.gif" alt="Coding Banner" width="600"/>
 </p>
 
 ## 🤖 Machine Learning & Deep Learning  
