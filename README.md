@@ -3,7 +3,7 @@
 
 Graduated from Texas Tech University with a Master’s in Computer Science (May 2025), blending strong academic foundations with hands-on industry experience to deliver high-quality software and AI/ML solutions.. </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AravindReddy45/AravindReddy45/main/assets/coding-banner.gif" alt="Coding Banner" width="600"/>
+  <img src="https://i.imgur.com/9Z3g5wP.gif" alt="Neural Network Banner" width="700"/>
 </p>
 ## 🤖 Machine Learning & Deep Learning  
 
