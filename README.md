@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravind Reddy</h1> <h3 align="center">Full‑Stack Developer & AI/ML Enthusiast</h3>
 <p align="center"> Passionate software developer with 4+ years of experience building microservices, web applications, and data-driven systems across diverse technologies. Skilled in designing scalable solutions and solving complex technical problems, with a constant drive for learning and innovation.
 <p align="center">
-  <img src="https://github.com/Aravind45code/github-iamge.git" alt="AI + Software Development Banner" width="700"/>
+  <img src="https://raw.githubusercontent.com/Aravind45code/github-iamge/main/githubimage.gif" width="700"/>
 </p>
 
 
