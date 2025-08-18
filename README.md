@@ -2,6 +2,9 @@
 <p align="center"> Passionate software developer with 4+ years of experience building microservices, web applications, and data-driven systems across diverse technologies. Skilled in designing scalable solutions and solving complex technical problems, with a constant drive for learning and innovation.
 
 Graduated from Texas Tech University with a Master’s in Computer Science (May 2025), blending strong academic foundations with hands-on industry experience to deliver high-quality software and AI/ML solutions.. </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500"/>
+</p>
 
 ## 🤖 Machine Learning & Deep Learning  
 
