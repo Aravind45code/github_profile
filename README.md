@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aravind Reddy</h1> <h3 align="center">Full‑Stack Developer & AI/ML Enthusiast</h3>
 <p align="center"> Passionate software developer with 4+ years of experience building microservices, web applications, and data-driven systems across diverse technologies. Skilled in designing scalable solutions and solving complex technical problems, with a constant drive for learning and innovation.
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fchandula00&psig=AOvVaw2tw4BbxlRLIIckSkQLgNUR&ust=1755617575005000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDl6qbXlI8DFQAAAAAdAAAAABAE" alt="AI & Software Dev Banner" width="700"/>
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/ai-code-banner.png" alt="AI + Software Development Banner" width="700"/>
 </p>
+
 
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fchandula00&psig=AOvVaw2tw4BbxlRLIIckSkQLgNUR&ust=1755617575005000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDl6qbXlI8DFQAAAAAdAAAAABAE
