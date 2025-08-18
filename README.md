@@ -4,9 +4,6 @@
   <img src="https://raw.githubusercontent.com/Aravind45code/github-iamge/main/githubimage.gif" width="700"/>
 </p>
 
-
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fchandula00&psig=AOvVaw2tw4BbxlRLIIckSkQLgNUR&ust=1755617575005000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDl6qbXlI8DFQAAAAAdAAAAABAE
 Graduated from Texas Tech University with a Master’s in Computer Science (May 2025), blending strong academic foundations with hands-on industry experience to deliver high-quality software and AI/ML solutions.. </p>
 ## 🤖 Machine Learning & Deep Learning  
 
